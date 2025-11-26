@@ -7,6 +7,7 @@ soul
 虚拟伴侣
 
 DeepSeek
+Qwen
 
 coding
 
@@ -37,3 +38,15 @@ ai
 自动驾驶
 
 机器人
+
+AI应用
+
+AI眼镜
+
+AI耳机
+
+AI录音笔
+
+AI智能硬件
+
+智能硬件
